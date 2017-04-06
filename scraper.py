@@ -2,7 +2,7 @@
 # including some code snippets below that you should find helpful
 
 import scraperwiki
-from bs4 import BeautifulSoup
+import BeautifulSoup
 import json
 
 # import lxml.html
